@@ -18,8 +18,8 @@
 
 ## 😍 Activités | Hobbies
 
- -  Apprendre (le developpement web, le design, ..) | Learn to develop, Learn design ..
- - Jouer aux vidéos | Play videogames
+ - Apprendre (le developpement web, le design, ..) | Learn to develop, Learn design ..
+ - Jouer aux jeux vidéos | Play videogames
  - Lire des livres fantastiques | Read fantastic books
  - Dessiner et peindre | Draw and paint 
  - Danser de la bachata | Dance bachata
