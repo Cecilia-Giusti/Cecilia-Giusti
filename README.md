@@ -17,8 +17,7 @@
 </a>
 
 ## 🖥️ Projet en cours | Current project
-[Repo  - P7 - Les Petits Plats](https://github.com/Cecilia-Giusti/P7_LesPetitsPlats) </br>
-[Page - P7 - Les Petits Plats](https://cecilia-giusti.github.io/P7_LesPetitsPlats/) 
+[Repo  - P9 - Bill-app](https://github.com/Cecilia-Giusti/P9-bill-app) 
 
 
 ## 😍 Activités | Hobbies
