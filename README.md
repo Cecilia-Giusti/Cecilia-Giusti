@@ -5,7 +5,7 @@
 
 ## 💬 A propos de moi | About me
 
- - Manager en reconversaion dans un nouveau secteur | Manager retraining in a new sector
+ - Manager/Marketeur en reconversion dans un nouveau secteur | Manager/Marketer retraining in a new sector
  - Etudiante en developpement Frontend | Frontend developer student
 
  ## 🔧  Compétences & outils utilisés | Skills & tools
