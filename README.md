@@ -38,7 +38,7 @@
 </a>
 
 ## 🖥️ Projet en cours | Current project
-[Repo  - P9 - Bill-app](https://github.com/Cecilia-Giusti/P9-bill-app) 
+[Repo  - P10 - Learn@Home](https://github.com/Cecilia-Giusti/P10---Learn-Home) 
 
 ## 😍 Activités | Hobbies
 
