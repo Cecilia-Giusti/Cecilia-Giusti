@@ -38,8 +38,8 @@
 </a>
 
 ## 🖥️ Projet en cours | Current project
-[Repo  - P11 - Kasa](https://github.com/Cecilia-Giusti/P11---Kasa) 
-[Project  - P11 - Kasa](https://github.com/users/Cecilia-Giusti/projects/2) 
+- [Repo  - P11 - Kasa](https://github.com/Cecilia-Giusti/P11---Kasa) 
+- [Project  - P11 - Kasa](https://github.com/users/Cecilia-Giusti/projects/2) 
 
 ## 😍 Activités | Hobbies
 
