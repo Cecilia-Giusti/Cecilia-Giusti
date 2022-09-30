@@ -8,7 +8,7 @@
  - Manager/Marketeur en reconversion dans un nouveau secteur | Manager/Marketer retraining in a new sector
  - Etudiante en developpement Frontend | Frontend developer student
 
- ## 🔧  Compétences & outils utilisés | Skills & tools
+## 🔧  Compétences & outils utilisés | Skills & tools
 
 **Développement/Development:** 
 
@@ -16,11 +16,12 @@
 
 **Framework, Library & Preprocessor**
 
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/>  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white"/>
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black) ![React Router](https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white) <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/>  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white"/>  ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
 
 **Système de controle des versions/version control system**
 
-   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/> <img alt="Git Kraken" src="https://img.shields.io/badge/GitKraken-179287.svg?style=for-the-badge&logo=GitKraken&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/> 
+   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
+ <img alt="Git Kraken" src="https://img.shields.io/badge/GitKraken-179287.svg?style=for-the-badge&logo=GitKraken&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/> 
 
 **Organisation/Organization :** 
 
@@ -38,8 +39,7 @@
 </a>
 
 ## 🖥️ Projet en cours | Current project
-- [Repo  - P11 - Kasa](https://github.com/Cecilia-Giusti/P11---Kasa) 
-- [Project  - P11 - Kasa](https://github.com/users/Cecilia-Giusti/projects/2) 
+[P13 OC - Argent Bank](https://github.com/Cecilia-Giusti/Project-13-Argent-Bank)
 
 ## 😍 Activités | Hobbies
 
@@ -57,4 +57,6 @@
 ![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=Cecilia-Giusti&layout=compact&bg_color=151515&title_color=ffffff&text_color=81ecec&border_color=00cec9)
 
 ![enter image description here](https://www.codewars.com/users/Cecilia-Giusti/badges/micro)
+
+
 
