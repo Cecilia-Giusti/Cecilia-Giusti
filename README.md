@@ -12,7 +12,7 @@
 
 **Développement/Development:** 
 
- <img alt="JavaScript Vanilla" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/> 
+ <img alt="JavaScript Vanilla" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/> 
 
 **Framework, Library & Preprocessor**
 
@@ -39,7 +39,8 @@
 </a>
 
 ## 🖥️ Projet en cours | Current project
-[P13 OC - Argent Bank](https://github.com/Cecilia-Giusti/Project-13-Argent-Bank)
+- [P14 OC - Premier package](https://www.npmjs.com/package/@cecigiu2b/dropdown-menu-react)
+- [P14 OC - Wealth health](https://github.com/Cecilia-Giusti/P-14-wealth-health)
 
 ## 😍 Activités | Hobbies
 
