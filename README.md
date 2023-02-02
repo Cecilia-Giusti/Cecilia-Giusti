@@ -5,8 +5,9 @@
 
 ## 💬 A propos de moi | About me
 
- - Manager/Marketeur en reconversion dans un nouveau secteur | Manager/Marketer retraining in a new sector
- - Etudiante en developpement Frontend | Frontend developer student
+- Developpeur Front-End React/TypeScript
+- Ancien manager
+- Apprentissage en cours : Next.js, Node.js
 
 ## 🔧  Compétences & outils utilisés | Skills & tools
 
@@ -33,7 +34,7 @@
  
 ## :incoming_envelope:  Me contacter : 
 
-<a href="https://www.linkedin.com/in/cecilia-giusti-12aa7bb6/">![Link to linkedin](<https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white>)
+<a href="https://www.linkedin.com/in/cecilia-giusti/">![Link to linkedin](<https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white>)
 </a> <a href="mailto:ceciliagiusti2b@gmail.com">![Link to linkedin](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)
 </a>
 
@@ -43,7 +44,7 @@
 
 ## 😍 Activités | Hobbies
 
- -  Apprendre (le developpement web, le design, ..) | Learn to develop, Learn design ..
+ - Apprendre (le developpement web, le design, ..) | Learn to develop, Learn design ..
  - Jouer aux vidéos | Play videogames
  - Lire des livres fantastiques | Read fantastic books
  - Dessiner et peindre | Draw and paint 
