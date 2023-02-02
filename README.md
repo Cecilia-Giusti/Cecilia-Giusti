@@ -20,8 +20,7 @@
 
 **Système de controle des versions/version control system**
 
-   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
- <img alt="Git Kraken" src="https://img.shields.io/badge/GitKraken-179287.svg?style=for-the-badge&logo=GitKraken&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/> 
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/> <img alt="Git Kraken" src="https://img.shields.io/badge/GitKraken-179287.svg?style=for-the-badge&logo=GitKraken&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/> 
 
 **Organisation/Organization :** 
 
@@ -29,7 +28,7 @@
  
 **Design :**
 
-  <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"/> <img alt="InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366.svg?style=for-the-badge&logo=Adobe-InDesign&logoColor=white"/> <img alt="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white"/>
+  <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"/> <img alt="InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366.svg?style=for-the-badge&logo=Adobe-InDesign&logoColor=white"/> <img alt="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
 
  
 ## :incoming_envelope:  Me contacter : 
