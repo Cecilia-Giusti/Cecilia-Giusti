@@ -52,12 +52,14 @@
 - etc..
 
 ## ⭐ Statistiques | Work work work
+ 
+![enter image description here](https://www.codewars.com/users/Cecilia-Giusti/badges/micro)
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=Cecilia-Giusti&&show_icons=true&title_color=ffffff&icon_color=55efc4&text_color=81ecec&bg_color=151515&border_color=00cec9)
 
 ![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=Cecilia-Giusti&layout=compact&bg_color=151515&title_color=ffffff&text_color=81ecec&border_color=00cec9)
 
-![enter image description here](https://www.codewars.com/users/Cecilia-Giusti/badges/micro)
+
 
 
 
