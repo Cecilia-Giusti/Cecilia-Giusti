@@ -39,8 +39,8 @@
 </a>
 
 ## 🖥️ Projet en cours | Current project
-- [P14 OC - Premier package](https://www.npmjs.com/package/@cecigiu2b/dropdown-menu-react)
-- [P14 OC - Wealth health](https://github.com/Cecilia-Giusti/P-14-wealth-health)
+
+- [Portfolio](https://github.com/Cecilia-Giusti/portfolio)
 
 ## 😍 Activités | Hobbies
 
