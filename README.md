@@ -53,7 +53,7 @@
 
 ## ⭐ Statistiques | Work work work
  
-![enter image description here](https://www.codewars.com/users/Cecilia-Giusti/badges/micro)
+![enter image description here](https://www.codewars.com/users/Cecilia-Giusti/badges/large)
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=Cecilia-Giusti&&show_icons=true&title_color=ffffff&icon_color=55efc4&text_color=81ecec&bg_color=151515&border_color=00cec9)
 
