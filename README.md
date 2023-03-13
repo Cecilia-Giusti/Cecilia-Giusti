@@ -7,7 +7,7 @@
 
 - Developpeur Front-End React/TypeScript
 - Ancien manager
-- Apprentissage en cours : Next.js, Node.js
+- Apprentissage en cours : JAVA, Docker
 
 ## 🔧  Compétences & outils utilisés | Skills & tools
 
