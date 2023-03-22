@@ -7,7 +7,7 @@
 
 - Developpeur Front-End React/TypeScript
 - Ancien manager
-- Apprentissage en cours : JAVA, Docker
+- Apprentissage en cours : Angular, Firebase
 
 ## 🔧  Compétences & outils utilisés | Skills & tools
 
@@ -40,7 +40,7 @@
 
 ## 🖥️ Projet en cours | Current project
 
-- [Portfolio](https://github.com/Cecilia-Giusti/portfolio)
+- [Real-Estate](https://github.com/Cecilia-Giusti/portfolio](https://github.com/Cecilia-Giusti/training-integration/tree/real-estate))
 
 ## 😍 Activités | Hobbies
 
